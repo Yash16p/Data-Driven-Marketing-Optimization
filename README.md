@@ -167,7 +167,7 @@ Contributions are welcome! Feel free to open issues or pull requests.
 **Yash Pandey**
 
 * Data Science Enthusiast | Problem Solver | Critical Thinker
-* [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+* [LinkedIn](https://www.linkedin.com/in/yash-pandey-a608501a0/) | [GitHub](https://github.com/Yash16p)
 
 ---
 
